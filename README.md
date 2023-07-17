@@ -2,7 +2,7 @@
 Date: 7/2/2023
 ## Screenshots
 
-![App Screenshot](http://localhost:3000/_next/image?url=%2FTAS_v2_3.jpeg&w=1920&q=100)
+![App Screenshot](https://ramongarciajr.tech/TAS_v2_3.jpeg)
 
 
 ## Lessons Learned
