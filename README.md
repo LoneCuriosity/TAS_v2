@@ -20,19 +20,19 @@ Although we had envisioned implementing certain optimizations, we encountered li
 Clone the project
 
 ```bash
-  git clone https://github.com/LoneCuriosity/TAS_v2
+git clone https://github.com/LoneCuriosity/TAS_v2
 ```
 
 Go to EasyEDA
 
 ```bash
-  https://easyeda.com/editor
+https://easyeda.com/editor
 ```
 
 Go to
 
 ```bash
-  File > Open > EasyEDA
+File > Open > EasyEDA
 ```
 
 
